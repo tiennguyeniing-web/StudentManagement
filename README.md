@@ -1,2 +1,2 @@
 # Student Management System
-Version: 2.0 - Developer B
+Version: 1.0
